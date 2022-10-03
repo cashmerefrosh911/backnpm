@@ -1,5 +1,6 @@
 {
 	"author": "Robert",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
+		
 		"url": "https://github.com/cashmerefrosh911/backnpm.git"
 	}
 }
